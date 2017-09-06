@@ -10,7 +10,7 @@ javascript:
 */
 
 if (typeof(assignFlag) == "undefined") {
-var assignFlag = true;
+var assignFlag = false;
 }
 var flagTypeInput = prompt("Enter flag type:");
 
